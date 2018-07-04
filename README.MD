@@ -4,3 +4,6 @@ introduction to scalaz -
 a functional approach in scala
 
 
+
+
+
